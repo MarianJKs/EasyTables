@@ -2,6 +2,7 @@
 EasyTables is a module that is made to help and ease on making modules.
 
 _NOTE_ EasyTables is mostly useless and should not be used as learning on how tables works is pretty easy.
+
 _NOTE_ Creating Elements inside a Table using EasyTables is cluttered.
 
 # Example
